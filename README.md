@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div align="center" width="50">
-  <img src="/coding-girl.gif" alt="Coding Girl"  width="550"/>
+  <img src="https://github.com/GaurangiM/GaurangiM/blob/main/media/coding-girl.gif" alt="Coding Girl"  width="550"/>
 </div>
 <!--
 **GaurangiM/GaurangiM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
