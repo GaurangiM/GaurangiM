@@ -20,7 +20,7 @@
 - <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/Developer.gif" width="25" /> &nbsp; I’m currently learning animation framework eg. Framer-motion and working on my Portfolio website.<br>
 - <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/hyperkitty.gif?raw=true" width="20" />&nbsp; I like to build fun, interactive websites.<br>
 - :gem: Vue JS from Udemy, Front End Nanodegree from Udacity<br>
-- <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/lightning.gif?raw=true" width="12" />&nbsp; The first programmer was the daughter of a mad poet<br>
+- <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/lightning.gif?raw=true" width="12" />&nbsp; Fun fact: The first programmer was the daughter of a mad poet<br>
 <hr></hr>
 
 ### Language and Tools
