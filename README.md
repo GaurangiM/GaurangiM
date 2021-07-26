@@ -11,13 +11,13 @@
 <p align="center">
   <a href="mailto:manegaurangi89@gmail.com" target="_blank"><img height="25" src = "https://img.shields.io/badge/gmail-c14438?&style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/gaurangim" target="_blank"><img height="25" src = "https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-  <a href="https://gaurangim.github.io/My%20Portfolio/index.html" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+  <a href="https://gaurangimane.netlify.app/" target="_blank"><img height="25" src = "https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=GaurangiM&color=red"</p>
 
 ---
-
-- <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/Developer.gif" width="25" /> &nbsp; I’m currently learning animation framework eg. Framer-motion and working on my Portfolio website.<br>
+- Check my [portfolio website](https://gaurangimane.netlify.app/)
+- <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/Developer.gif" width="25" /> &nbsp; I’m currently learning animation framework eg. Framer-motion.<br>
 - <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/hyperkitty.gif?raw=true" width="20" />&nbsp; I like to build fun, interactive websites.<br>
 - :gem: Vue JS from Udemy, Front End Nanodegree from Udacity<br>
 - <img alt="GIF" src="https://github.com/GaurangiM/GaurangiM/blob/main/media/lightning.gif?raw=true" width="12" />&nbsp; Fun fact: The first programmer was the daughter of a mad poet<br>
